@@ -1,5 +1,4 @@
 
-final_list=[]
 horizontial=0
 depth=0
 with open('input', 'r') as f:
